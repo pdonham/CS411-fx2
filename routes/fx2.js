@@ -7,7 +7,7 @@ router.get ('/', function (req, res, next) {
     var options = { method: 'POST',
         url: 'http://apilayer.net/api/live',
         qs:
-        { access_key: '707d4d2111a1976c7c4bbd767a9bf3a6',
+        { access_key: 'register for a key at apilayer.net',
             source: 'USD',
             currencies: 'EUR',
             format: '1' },
